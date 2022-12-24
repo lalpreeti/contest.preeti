@@ -1,0 +1,15 @@
+*{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    
+}
+.text-end a{
+    text-decoration: none;
+    color: white;
+}
+
+.text-end a:hover{
+    text-decoration: none;
+    color: black;
+    
+}
